@@ -1,0 +1,34 @@
+{
+    "short_name": "SIES-PWA",
+    "name": "PWA LAB MANUAL",
+    "icons": [
+        {
+          "src": "assests/AppImages/windows11assests/AppImages/windows11/SmallTile.scale-100.png",
+          "sizes": "71x71"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-125.png",
+          "sizes": "89x89"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-150.png",
+          "sizes": "107x107"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-200.png",
+          "sizes": "142x142"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-400.png",
+          "sizes": "284x284"
+        },
+        {
+          "src": "assests/AppImages/windows11/Square150x150Logo.scale-100.png",
+          "sizes": "150x150"
+        },
+        {
+          "src": "assests/AppImages/windows11/Square150x150Logo.scale-125.png",
+          "sizes": "188x188"
+        }
+    ]
+}
